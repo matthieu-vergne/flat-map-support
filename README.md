@@ -1,3 +1,3 @@
 # Summary
 
-This project provides some support to exploit at best `Stream.flatMap()`.
+This project provides some support to exploit at best `Stream.flatMap()`, like the ability to apply this method recursively as long as some criteria are met. For example, a `File` can be flatten into a `Stream<File>` if it represents a directory. All the directories contains in it can be flatten too, and so on recursively. Such a feature offers consequently to transform a `File` into a `Stream<File>` which provides all the files and sub-files contained in it.
