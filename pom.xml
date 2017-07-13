@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.matthieu-vergne</groupId>
 	<artifactId>flat-map-support</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Java Stream Support for Flat Map</name>
 	<description>Support class for Stream.flatMap().</description>
@@ -13,7 +13,7 @@
 		<connection>scm:git:git://github.com/matthieu-vergne/flat-map-support.git</connection>
 		<developerConnection>scm:git:githubMatthieu:matthieu-vergne/flat-map-support.git</developerConnection>
 		<url>scm:git:git://github.com/matthieu-vergne/flat-map-support.git</url>
-	  <tag>flat-map-support-1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 	
 	<issueManagement>
